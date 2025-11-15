@@ -6,8 +6,6 @@ A Python tool that adds customizable subtitles to videos using OpenCV. Supports 
 A Python tool that adds **customizable subtitles** to videos using OpenCV.  
 Supports text positioning, timed subtitles, and saving frames with a keypress.
 
-Built as part of my Computer Vision practice (1st Year B.Tech IT, DTU).
-
 ---
 
 ## 🚀 Features
